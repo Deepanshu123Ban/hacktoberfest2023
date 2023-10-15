@@ -1,0 +1,12 @@
+// java program "Hello World"
+class Main{
+public static void main(String[] args){
+System.out.println("Hello World");
+}
+}
+
+// python program "Hello World"
+print("Hello World")
+
+// Bash program "Hello World"
+echo "Hello World"
